@@ -1,0 +1,16 @@
+{
+  "name": "hml_simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://lenafelica.github.io/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
